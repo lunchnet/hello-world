@@ -7,4 +7,4 @@ Hoping to make a game someday.
 
 Here are some edits made in edit branch.
 
-Here aer some more edits.
+Here are some more edits.
